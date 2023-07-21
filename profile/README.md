@@ -6,6 +6,7 @@ Copilot supports:
 * Vi/neovim
 * Visual Studio
 * Visual Studio Code
+
 Instruction are here on how to set up Copilot for each IDE https://docs.github.com/en/copilot/getting-started-with-github-copilot
 
 ## BigTop/ SecLab
