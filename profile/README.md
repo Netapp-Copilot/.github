@@ -11,9 +11,12 @@ Copilot supports:
 Instruction are here on how to set up Copilot for each IDE https://docs.github.com/en/copilot/getting-started-with-github-copilot
 
 ### Special Instruction for BigTop/ SecLab
+<todo>
 
 ## How to get access
 Currently, we have very limited licenses for Copilot, so only specific teams currently have access to Copilot. Please reach out to your team lead to get access.
 
 If your team does not have access to Copilot, send a request to ng-github-admins@netapp.com with the team name and the number of licenses you will need. Currently, there is no funding so additional licenses may need to be funded by your org. 
 
+## Inactive users
+If a user has been inactive they will lose their CoPilot access at the start of the next month
